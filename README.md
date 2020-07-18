@@ -1,7 +1,7 @@
 ### Hey 👋🏽
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MehediH/MehediH/master/gitmoji.png" height="250" alt="Animoji character"/>
+<img src="https://raw.githubusercontent.com/MehediH/MehediH/master/gitmoji2.png" height="250" alt="Animoji character"/>
 </p>
 
 I am Mehedi, a sofware engineer and CompSci undergrad who loves to build fun experiences. I am currently working as an intern on the Windows on Snapdragon team at Qualcomm, helping build new experiences for next-gen Windows devices. On the side, I am working on projects like [Tweeten](https://tweetenapp.com) and [winstall.app](https://github.com/MehediH/winstall).
