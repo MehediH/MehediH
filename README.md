@@ -8,10 +8,10 @@ I am Mehedi, a sofware engineer and CompSci undergrad who loves to build fun exp
 
 🌱  &nbsp;&nbsp;I’m currently learning: C#, C++, and building native Win32/UWP apps.
 
-👯  &nbsp;&nbsp;I’m looking to collaborate on building fun software experiences.
+👯  &nbsp;&nbsp;I’m looking to collaborate on anything fun :)
 
 💬  &nbsp;&nbsp;Ask me about anything at [meh@builtbymeh.com](mailto:meh@builtbymeh.com)
 
-📫  &nbsp;&nbsp;How to reach me: [@mehedih_ on Twitter](https://twitter.com/mehedih_) and [LinkedIn](https://www.linkedin.com/in/meh-hassan/) (please don't send me spam, I get enough of those already).
+📫  &nbsp;&nbsp;How to reach me: [@mehedih_ on Twitter](https://twitter.com/mehedih_) and [LinkedIn](https://www.linkedin.com/in/meh-hassan/).
 
 Come say hi! 👀
